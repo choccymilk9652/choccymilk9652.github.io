@@ -1,0 +1,15 @@
+img {
+    width: 40vw;
+    left: 30vw;
+    position: relative;
+    border-radius: 50%;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+h1, p {
+    text-align: center;
+    position: relative;
+}
